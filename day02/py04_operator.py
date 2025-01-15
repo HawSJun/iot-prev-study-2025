@@ -22,7 +22,7 @@ print(c)
 c = b // a # 나눈 결과가 정수(몫)
 print(c)
 
-c = b % a # 나눈 결과의 나머지지
+c = b % a # 나눈 결과의 나머지
 print(c)
 
 c = a ** 3 # 승수계산 power
