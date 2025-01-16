@@ -1,4 +1,4 @@
-# py07_while_control.py
+# py07_while_control.py - while문
 # for문 하고 동일
 
 loop = 10

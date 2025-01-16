@@ -1,4 +1,4 @@
-# py09_gugudan.py
+# py09_gugudan.py - 구구단 프로그램
 # 2 x 1 = 2 ~ 9 x 9 = 81
 
 for i in range(2, 10):

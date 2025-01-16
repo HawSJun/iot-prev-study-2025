@@ -57,7 +57,7 @@
 - 빅데이터분석, 인공지능, 웹개발(!) 등 다양한 분야 활용
 
 ##### 파이썬 설치
-- Install Now로 설치하면 안됨! Customize installation으로 서치
+- Install Now로 설치하면 안됨! Customize installation으로 설치
 - Add Python.exe to Path 는 체크
 - 경로 변경
 - 설치 후 Disable MAX Langs PATH... 체크 필수

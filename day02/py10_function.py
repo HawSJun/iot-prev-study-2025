@@ -1,4 +1,4 @@
-# py10_function.py
+# py10_function.py - 함수
 # 수학의 함수와 동일
 
 print('함수 모듈!!') # 내장(built-in)함수

@@ -1,6 +1,6 @@
 # py11_file_inout.py - 파일 입출력
 
-# 쓰기기
+# 쓰기
 # a(추가), r(읽기), w(쓰기)
 f = open('./day02/testfile.txt', mode='w', encoding='utf-8')
 # 아무것도 안함
